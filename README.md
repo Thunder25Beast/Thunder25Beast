@@ -1,4 +1,3 @@
-<div align="center">
 
 # 💫 About Me:
  Hello World!, I’m Lakshaditya Singh, a Full-Stack Web Developer & AI/ML Engineer 👋🏼<br><br>🛜 studying B.Tech in Mechanical Engineering at IIT Bombay (2024–2027)  <br>🔭 currently working as a Web Manager at ITC IIT Bombay <br>👯 looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
@@ -12,6 +11,7 @@
 # 📊 GitHub Stats:
 <div align="center">
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Thunder25Beast&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+ 
 ![](https://nirzak-streak-stats.vercel.app/?user=Thunder25Beast&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder25Beast&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
