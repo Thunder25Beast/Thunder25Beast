@@ -22,7 +22,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunder25beast&label=Profile%20views&color=0e75b6&style=flat" alt="thunder25beast" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=thunder25beast&label=Profile%20views&color=0e75b6&style=flat" alt="thunder25beast" /> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thunder25Beast/Thunder25Beast/output/github-snake-dark.svg" />
