@@ -1,8 +1,11 @@
-[![MasterHead](topbanner.gif)](https://myportfolio-ls.netlify.app/)
+[![MasterHead](pic.png)](https://myportfolio-ls.netlify.app/)
 
+<h1 align="center">Hello World! 👋,I’m Lakshaditya Singh</h1>
+<h3 align="center">, A Full-Stack Web Developer & AI/ML Engineer</h3>
 # 💫 About Me:
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb211aWNsZ3I5Z3UwbG03d3hyaXBqeWJnNDhlaXJ3c2piZm11Mm44cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
- Hello World!, I’m Lakshaditya Singh, a Full-Stack Web Developer & AI/ML Engineer 👋🏼<br><br>🛜 studying B.Tech in Mechanical Engineering at IIT Bombay (2024–2027)  <br>🔭 currently working as the Web Manager at ITC IIT Bombay <br>👯 looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
+<img align="right" alt="Coding" width="300" src="gifside.gif" />
+
+👋🏼<br><br>🛜 studying B.Tech in Mechanical Engineering at IIT Bombay (2024–2027)  <br>🔭 currently working as the Web Manager at ITC IIT Bombay <br>👯 looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh_lakshaditya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshaditya-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhlakshaditya@gmail.com) 
@@ -30,3 +33,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Thunder25Beast/Thunder25Beast/output/github-snake.svg" />
 </picture>
 </div>
+<!-- source https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
