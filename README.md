@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb211aWNsZ3I5Z3UwbG03d3hyaXBqeWJnNDhlaXJ3c2piZm11Mm44cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
  Hello World!, I’m Lakshaditya Singh, a Full-Stack Web Developer & AI/ML Engineer 👋🏼<br><br>🛜 studying B.Tech in Mechanical Engineering at IIT Bombay (2024–2027)  <br>🔭 currently working as the Web Manager at ITC IIT Bombay <br>👯 looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
 
 ## 🌐 Socials:
