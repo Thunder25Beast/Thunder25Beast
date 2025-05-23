@@ -18,9 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Thunder25Beast&icon=1&color=1)](https://visitcount.itsvg.in)
-
----
 
 <p > <img src="https://komarev.com/ghpvc/?username=thunder25beast&label=Profile%20views&color=0e75b6&style=flat" alt="thunder25beast" /> </p>
 
