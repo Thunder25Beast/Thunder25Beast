@@ -1,4 +1,3 @@
-
 # 💫 About Me:
  Hello World!, I’m Lakshaditya Singh, a Full-Stack Web Developer & AI/ML Engineer 👋🏼<br><br>🛜 studying B.Tech in Mechanical Engineering at IIT Bombay (2024–2027)  <br>🔭 currently working as the Web Manager at ITC IIT Bombay <br>👯 looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
 
@@ -20,6 +19,12 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Thunder25Beast&icon=1&color=1)](https://visitcount.itsvg.in)
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Thunder25Beast&label=Profile%20Views&color=1&icon=1&pretty=true" alt="Profile Views"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thunder25Beast/Thunder25Beast/output/github-snake-dark.svg" />
