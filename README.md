@@ -22,9 +22,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Thunder25Beast&label=Profile%20Views&color=1&icon=1&pretty=true" alt="Profile Views"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunder25beast&label=Profile%20views&color=0e75b6&style=flat" alt="thunder25beast" /> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thunder25Beast/Thunder25Beast/output/github-snake-dark.svg" />
