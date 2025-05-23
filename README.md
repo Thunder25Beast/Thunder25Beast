@@ -1,11 +1,10 @@
 [![MasterHead](pic.png)](https://myportfolio-ls.netlify.app/)
 
-<h1 align="center">Hello World! 👋,I’m Lakshaditya Singh</h1>
-<h3 align="center">, A Full-Stack Web Developer & AI/ML Engineer</h3>
+<h1 align="center">Hello World! 👋, I’m Lakshaditya Singh</h1>
+<h3 align="center">A Full-Stack Web Developer & AI/ML Engineer</h3>
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src="gifside.gif" />
-
-👋🏼<br><br>🛜 studying B.Tech in Mechanical Engineering at IIT Bombay (2024–2027)  <br>🔭 currently working as the Web Manager at ITC IIT Bombay <br>👯 looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
+🛜 studying B.Tech in Mechanical Engineering at IIT Bombay (2024–2027)  <br>🔭 currently working as the Web Manager at ITC IIT Bombay <br>👯 looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh_lakshaditya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshaditya-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhlakshaditya@gmail.com) 
