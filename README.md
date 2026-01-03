@@ -4,7 +4,7 @@
 <h3 align="center">A Full-Stack Web Developer & AI/ML Engineer</h3>
 <h2>💫 About Me:</h2>
 <img align="right" alt="Coding" width="300" src="gifside.gif" />
-🛜 Studying B.Tech in Mechanical Engineering at IIT Bombay (2024–2027)  <br>🔭 Currently working as the Web Manager at ITC IIT Bombay <br>👯 Looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 Ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ Fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
+🛜 Studying B.Tech in Mechanical Engineering at IIT Bombay (2023–2027)  <br>🔭 Currently working as the Web Manager at ITC IIT Bombay <br>👯 Looking to collaborate on any open-source or team projects related to AI/ML or Web Dev <br>💬 Ask me about: full-stack web development, TensorFlow, PyTorch, Docker<br>⚡ Fun fact: I programmed a neural network to beat me at Tetris—and it still won 9 out of 10 times.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh_lakshaditya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshaditya-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhlakshaditya@gmail.com) 
